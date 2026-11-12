@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Shawn-Peng1018/Shawn-Peng1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shawn-Peng1018/Shawn-Peng1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
